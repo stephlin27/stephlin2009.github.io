@@ -1,11 +1,9 @@
 ---
 title: "WHO AM I"
-tags:
-    - Early Life
-    - Teen Life
-    - Adult Life (in quite a few more years...)
-thumbnail: "/assets/img/thumbnail/sample.png"
-bookmark: true
+##Early Life
+##Teenage Life
+##Adult Life
+####still in a very long time...
 ---
 
 
